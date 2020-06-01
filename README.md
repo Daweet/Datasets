@@ -1,3 +1,3 @@
 # Datasets
-dataset
-Collection of datasets explored in the webpage posts or other repositories in myGitHub
+
+Collection of dataset explored in the webpage posts or other repositories in myGitHub
